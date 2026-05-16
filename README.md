@@ -2,7 +2,7 @@
 
 Founder, TaskHawk Systems
 
-I work on deterministic runtime enforcement for autonomous and AI-driven systems:
+I work on deterministic runtime enforcement for autonomous AI, software, and operational systems:
 formal verification, fail-closed authorization, signed release tokens, and tamper-evident evidence.
 
 Public artifacts:
